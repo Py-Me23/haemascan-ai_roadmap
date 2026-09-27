@@ -1,0 +1,6 @@
+{
+  "name": "HaemaScan AI - Android UI & Wireframe Workflow",
+  "description": "Two-Layer Anemia Intelligence Platform with Android CHW field app, interactive clinical workflows, and centralized administrative supervisor dashboard for test auditing, QA sign-off, DHIS2 reporting, and field team management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
